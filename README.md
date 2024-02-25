@@ -7,3 +7,5 @@ URL that provide database of url that have been identified as phising or contain
 **URLHaus**<br />
        https://urlhaus.abuse.ch/<br />
        
+**Phishunt**<br />
+       https://phishunt.io/feed.txt
